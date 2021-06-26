@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harshitjoshi1104
 - 👀 I’m interested in Web Development  
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently trying my hands on ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me joshi.harshit1104@gmail.com
 
