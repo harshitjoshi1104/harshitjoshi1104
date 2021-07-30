@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harshitjoshi1104
+- 👋 Hi, I’m Harshit Joshi
 - 👀 I’m interested in Web Development  
 - 🌱 I’m currently trying my hands on ML
 - 💞️ I’m looking to collaborate on ...
