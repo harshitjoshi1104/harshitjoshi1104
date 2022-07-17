@@ -1,3 +1,5 @@
+### Hi, I'm Harshit Joshi
+
 - 👋 Hi, I’m Harshit Joshi
 - 👀 I’m interested in Web Development  
 - 🌱 I’m currently trying my hands on ML
