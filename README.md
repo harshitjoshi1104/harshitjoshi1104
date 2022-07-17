@@ -1,4 +1,4 @@
-### Hi, I'm Harshit Joshi
+# Hi, I'm Harshit Joshi
 
 - 👋 Hi, I’m Harshit Joshi
 - 👀 I’m interested in Web Development  
