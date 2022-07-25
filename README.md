@@ -30,7 +30,7 @@
   - Currently working on a project namely THE CODING PLATFORM, this is a platform where user can learn and practice interview oriented Questions (Like leetcode/hackerrank). 
 
 ### Portfolio
-  - Link : -  https://harshitjoshi1104.github.io/myPersonal/
+  - Link : -  https://harshitjoshi1104.github.io/PersonalWebsite/
 
 <!---
 harshitjoshi1104/harshitjoshi1104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
