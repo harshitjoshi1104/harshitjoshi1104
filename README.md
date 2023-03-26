@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Harshit. I am Software Engineer at Zscaler. I am a <br>MERN stack Developer working in Reactjs for over more than 3 years. <br><br>I am a good problem solver with Leetcode streak of over 500+ Days with over 1500+ solved problems<br>
+Hi, I am Harshit. I am Software Engineer at Zscaler. I am a MERN stack Developer working in Reactjs for over more than 3 years. <br><br>I am a good problem solver with Leetcode streak of over 500+ Days with over 1500+ solved problems<br>
 
 
 ## 🌐 Socials:
